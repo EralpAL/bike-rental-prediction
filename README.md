@@ -1,7 +1,6 @@
 # Bike Rental Prediction
 
-An end-to-end machine learning project predicting daily bike rental counts from weather and calendar features. Built with pandas and scikit-learn while studying Chapter 2 of *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*.
-
+An end-to-end machine learning project predicting daily bike rental counts from weather and calendar features. Built with pandas and scikit-learn while studying Chapter 2 of Hands-On Machine Learning with Scikit-Learn and PyTorch by Aurélien Géron.
 ## Dataset
 
 [UCI Bike Sharing dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset), daily file `day.csv`: 731 observations from 2011–2012. Target: `cnt` (daily rental count). Data is not bundled; consult UCI for attribution and license terms.
